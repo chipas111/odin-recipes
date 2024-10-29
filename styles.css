@@ -1,0 +1,51 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 46px;
+    color: rgb(31, 30, 30);
+    background-color: aquamarine;
+}
+
+h2 {
+    font-size: 40px;
+    background-color: aquamarine;
+    border-radius: 16px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+ul {
+    list-style: none;
+    font-size: 24px;
+    color: rgb(20, 114, 245);
+}
+
+a, 
+.link-s {
+    text-decoration: none;
+}
+
+.link-s {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.ingredients {
+    font-size: 20px;
+    color: darkgreen;
+    line-height: 1.2;
+}
+
+.ingredients li {
+    padding-bottom: 12px;
+}
+
+ol {
+    font-size: 20px;
+    color: chocolate;
+}
